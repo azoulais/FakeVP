@@ -166,7 +166,7 @@
 <ul>
     <li> Full project report (<a href="ICBV241-2-pdf.pdf" class="course">PDF</a>).
     </li>
-    <li> Oral presentation slides (<a href="ICBV241-2-Presentation.pptx" class="course">ppt</a> , <a href="ICBV241-2-Presentation_pdf.pdf" class="course">PDF</a>).
+    <li> Oral presentation slides (<a href="ICBV241-2-Presentation_pdf.pdf" class="course">PDF</a>).
     </li>
     <li> <a href="ICBV241-2-run_example.pdf" class="course">How To Run Example</a>
     </li>
