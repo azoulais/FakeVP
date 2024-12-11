@@ -168,13 +168,7 @@
     </li>
     <li> Oral presentation slides (<a href="ICBV241-2-Presentation.pptx" class="course">ppt</a> , <a href="ICBV241-2-Presentation_pdf.pdf" class="course">PDF</a>).
     </li>
-    <li> Project's video file (<a href="ICBV241-2-video.mp4" class="course">video_file</a>).
-    </li>
-    <li> <a href="ICBV241-2-exec.zip" class="course">Downloadable executable</a>
-    </li>
     <li> <a href="ICBV241-2-run_example.pdf" class="course">How To Run Example</a>
-    </li>
-    <li> <a href="ICBV241-2-code.zip" class="course">Downloadable source code</a>.
     </li>
 </ul>
 <p></p>
