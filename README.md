@@ -8,11 +8,11 @@
 
 <h3 align="center"> <em> Manipulated photos detector using vanishing points (FakeVP) </em> </h3>
 <p align="center"> Final project by </p>
-<p align="center"> <b> Itay Katav, Jonathan Mey-Tal, Shahar Azoulai</b> </p>
+<p align="center"> <b> Shahar Azoulai, Jonathan Mey-Tal, Itay Katav </b> </p>
 <p align="center">
-    <a href="mailto:katavit@post.bgu.ac.il" class="course">katavit@post.bgu.ac.il</a><br>
-    <a href="mailto:Meyyon@post.bgu.ac.il" class="course">Meyyon@post.bgu.ac.il</a><br>
     <a href="mailto:azoulais@post.bgu.ac.il" class="course">azoulais@post.bgu.ac.il</a>
+    <a href="mailto:Meyyon@post.bgu.ac.il" class="course">Meyyon@post.bgu.ac.il</a><br>
+    <a href="mailto:katavit@post.bgu.ac.il" class="course">katavit@post.bgu.ac.il</a><br>
   </p>
   
 <hr>
