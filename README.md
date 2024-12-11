@@ -153,10 +153,7 @@
 <p>Note that to classify if the object is fake or not we used a threshold of the distance between the two principle points. The threshold is defined as a proportion of the image width and length combination, so in that way the algorithm is defined for each image size.</p>
 
 <h3 align="left"> Project's Video</h3>
-<i>Do not touch. Here your project's video clip will be embedded by us...</i>
-<p align="justify">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/LYcXAEZfQFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</p>
+    <li><a href="https://www.youtube.com/embed/LYcXAEZfQFY" target="_blank">Vanishing Points and Lines - YouTube</a></li>
 
 <h3 align="left"> Conclusions</h3>
 <p>There are tasks that for humans can be very simple but for a machine very, very difficult. In our case it is very easy for humans to understand from an image which lines were probably parallel in the world and which were not, but for the computer lacking semantic understanding this is a difficult task.</p>
